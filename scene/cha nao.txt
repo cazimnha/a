@@ -1,0 +1,12 @@
+changeBg:none;
+changeBg:file.jpg;
+Você:Não, obrigado pelo chá -fontSize=default;
+:Ele acha que sou louca de aceitar? -fontSize=default;
+???:Tudo bem filha, qualquer coisa chame suas empregadas -fontSize=default;
+???: Graças a você, nós subimos nossos status social da família McMillan|Obrigado filha.. -fontSize=default;
+:McMillan...?|Eu lembro...|O livro... -fontSize=default;
+changeBg:none;
+intro:Os McMillan era uma família de novos ricos|...A filha mais velha se casa...|Parar melhorar os status sociais da família|Mas ela morre pelo próprio marido. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+:Que má sorte ein... -fontSize=default;
+: Nunca como a protagonista... -fontSize=default;
+changeScene:ficar.txt

@@ -1,0 +1,4 @@
+changeBg:none;
+intro: -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:Se passaram muitos dias... E meu marido ele não parece uma pessoa ruim|Mas ele só quer a confiança dos pais da Senhorita McMillan|E vai me matar pra ter todo acesso dos negócios da família... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeScene:vestido.txt

@@ -1,0 +1,13 @@
+Voccê :Bom, eu também fico incomodada com ele... mas fazer o que -fontSize=default;
+Elma:Espero que seja confiável mesmo, senhorita... -fontSize=default;
+Você:Espero que ele não me mate... Ele é chamado de Anjo da Morte -fontSize=default;
+Elma:Sinto muito pela senhorita... Mas não confie nele -fontSize=default;
+Você:Sim, de fato... Então, você desejava iniciar uma conversa comigo? -fontSize=default;
+Elma:Sim, eu estava querendo entregar essas balas de chocolate que a senhorita pediu -fontSize=default;
+Você:Awhnn, muito obrigado. Deve ter dado um trabalho -fontSize=default;
+Elma :Que nada ❤ -fontSize=default;
+setTextbox:hide;
+bgm:depositphotos_547031030-track-calming-new-age-audio-track.mp3;
+setTextbox:hide;
+changeBg:image-PhotoRoom (2).png;
+changeScene:jajaja.txt

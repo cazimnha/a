@@ -1,0 +1,21 @@
+changeBg:none;
+intro:São 19:00|Tenho um baile para ir...|E bom vou dar um jeito de sair desse casamento|Nem que eu mesma... mate esse babaca. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+: Chegamos... -fontSize=default;
+bgm:atatata.mp3;
+changeBg:afsdgdfg.png;
+: Vou ter que dar um jeito nesse meu "marido" de alguma forma... -fontSize=default;
+:Mas ele não vai terminar o casamento fácil assim... -fontSize=default;
+:Tô pensando em eu mesma matar ele...|Não seria uma má ideia... -fontSize=default;
+???: Olhe.. É o Duque |Descendo as escadas -fontSize=default;
+???:Como é atraente|Vamos lá, falar com ele -fontSize=default;
+:... -fontSize=default;
+:Duque?|...Será que é? -fontSize=default;
+changeBg:atav (1).png;
+:É ele mesmo... Noah Volstaire  -fontSize=default;
+:Não é flor que se cheire, mas ele seria minha salvação dessa minha morte trágica... -fontSize=default;
+changeBg:afsdgdfg.png;
+miniAvatar:Screenshot_8-removebg-preview.png;
+Noah Volstaire:Com licença senhoritas -fontSize=default;
+miniAvatar:none;
+: Minha chance!|Vou atrás dele... -fontSize=default;
+changeScene:caca.txt

@@ -1,0 +1,27 @@
+changeBg:x(1).webp -next;
+Noah Voltaire:Calma, não sou nenhum tipo de tarado ou sociopata -fontSize=default;
+changeBg:x(1).webp;
+changeBg:gjkl.webp;
+Você:... -fontSize=default;
+changeBg:x(1).webp -next;
+Noah Voltaire:Mas antes... -fontSize=default;
+changeBg:gjkl.webp -next;
+changeBg:Choose a background image;
+playEffect:sliding-paper-on-table-7034.mp3;
+changeBg:dsfdsf.png;
+miniAvatar:jh-removebg-preview.png;
+Noah Voltaire:Você vai ter que se mudar para a minha mansão o quanto antes -fontSize=default;
+miniAvatar:none;
+Você:Mas por que eu deveria me mudar? -fontSize=default;
+miniAvatar:jh-removebg-preview.png;
+Noah Voltaire:Você vai ser candidata a casamento na Casa Wynknight -fontSize=default;
+miniAvatar:none;
+Você:Mas não se trata apenas de um noivado? -fontSize=default;
+miniAvatar:jh-removebg-preview.png;
+Noah Voltaire:Sim, por isso mesmo. Será uma espécie de treinamento nupcial -fontSize=default;
+miniAvatar:none;
+miniAvatar:jh-removebg-preview.png;
+Noah Voltaire: Você irá para lá daqui a três dias -fontSize=default;
+miniAvatar:none;
+:Daqui a três dias? -fontSize=default;
+changeScene:3 dias.txt

@@ -1,0 +1,17 @@
+changeBg:Screenshot_13.png;
+:... Que lugar enorme -fontSize=default;
+:... -fontSize=default;
+:Parece um castelo -fontSize=default;
+???:Senhorita! -fontSize=default;
+???:Olá senhorita, você quer algo? -fontSize=default;
+???:Esta tudo bem? -fontSize=default;
+changeBg:none;
+???:SENHORITA MCMILLAN -fontSize=default;
+intro:Que dor...|...|Minha cabeça...|...|Parece que jogaram um tijolo em mim.....|... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:file.jpg;
+:McMillan...?|Eu lembro -fontSize=default;
+changeBg:none;
+intro:McMillan... era uma familía nobre...|Graças ao casamento da filha mais velha|...|Porquê eu?.. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+:Eu deveria ter reencarnado na protagonista...| -fontSize=default;
+: Mas porquê logo, na que vai morrer pelo próprio marido? -fontSize=default;
+changeScene:ficar.txt

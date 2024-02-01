@@ -1,0 +1,34 @@
+intro:...|Aonde eu estou?|Que lugar é esse?|...Um quarto.. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:file.jpg;
+:...?|...Que tontura -fontSize=default;
+:Preciso de informações... -fontSize=default;
+choose:Sair do quarto:sair.txt|Ficar:;
+:Melhor não sair -fontSize=default;
+:Que dor de cabeça|Eu cai de algum lugar -fontSize=default;
+:Eu não me me lembro -fontSize=default;
+setTextbox:on;
+playEffect:fdhdsafhdashdfsh.mp3;
+:... -fontSize=default;
+:...?|Quem é?... -fontSize=default;
+???:Filha seu marido queria se desculpar... -fontSize=default;
+???: Ele se arrenpede muito do que aconteceu... -fontSize=default;
+???:Ele me mandou entregar esse chá de desculpas... -fontSize=default;
+:Um chá?...|Marido??!... Eu nem sou casada -fontSize=default;
+choose:Aceitar chá:|Não aceitar:cha nao.txt;
+:Esse chá... -fontSize=default;
+setTextbox:hide;
+changeBg:;
+intro:Que tontura...|Esse chá...|... Não deveria ter tomado... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:file.jpg;
+setTextbox:on;
+???:Senhorita McMillan a senhorita está acordada? -fontSize=default;
+:McMillan...? -fontSize=default;
+:... -fontSize=default;
+changeBg:none;
+intro:Depois de ouvir "McMillan"|Eu percebi que eu já não era|A mesma pessoa|.... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+Você:Está tudo bem, obrigada -fontSize=default;
+changeBg:file.jpg;
+:É estranho pensar que sou personagem de um livro de romance...| -fontSize=default;
+:Que vai morrer pelo próprio marido... -fontSize=default;
+changeScene:ficar.txt
+changeScene:ficar.txt
