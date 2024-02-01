@@ -1,0 +1,8 @@
+Game_name:cappuh;
+Game_key:17b40dd4c24c51d;
+Title_img:imagezz.png;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
+Description:Jogo;
+Game_Logo:;
+Package_name:pupi;
